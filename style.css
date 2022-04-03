@@ -17,3 +17,7 @@
     border: 1px solid red; 
 }
 
+.Table-2 > p > span:nth-child(2n){
+    color: chartreuse;
+
+}
