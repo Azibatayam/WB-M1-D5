@@ -1,7 +1,15 @@
 
-div p{
+.Table p{
     width: 54px;
     height: 46px;
     border: 1px solid black;
     margin: 0px;
+}
+.Table-2 p{
+    display:inline-block;
+    width: 54px;
+    height: 46px;
+    border: 1px solid black;
+    margin-top: 50px;
+    
 }
