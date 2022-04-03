@@ -39,3 +39,9 @@
     top: 50px;
     right: 35px;
 }
+
+.Table-2 p > span:nth-child(2){ 
+    position: absolute;
+    bottom: 60px;
+    right: 35px;
+}
