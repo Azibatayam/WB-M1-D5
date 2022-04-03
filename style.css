@@ -5,14 +5,16 @@
     border: 1px solid black;
     margin: 0px;
 }
+
 .Table-2 p{
     display:inline-block;
     width: 54px;
     height: 46px;
     border: 1px solid black;
     margin-top: 50px;
-    
+    position: relative;
 }
+
 .Table-2 > p:nth-child(2n){
     border: 1px solid red; 
 }
@@ -26,7 +28,14 @@
     color: blue;
 
 }
+
 .Table-2 p:nth-child(6) > span:not(:last-of-type){
     color: yellow;
 
+}
+
+.Table-2 p > span:first-child{ 
+    position: absolute;
+    top: 50px;
+    right: 35px;
 }
