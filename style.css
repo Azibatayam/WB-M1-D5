@@ -22,11 +22,7 @@
     color: chartreuse;
 }
 
+.Table-2 p:nth-child(2) > span:last-of-type{
+    color: blue;
 
-.Table-3 p{
-    display:inline-block;
-    width: 54px;
-    height: 46px;
-    border: 1px solid black;
-    margin-top: 50px;
 }
