@@ -26,3 +26,7 @@
     color: blue;
 
 }
+.Table-2 p:nth-child(6) > span:not(:last-of-type){
+    color: yellow;
+
+}
