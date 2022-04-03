@@ -13,3 +13,7 @@
     margin-top: 50px;
     
 }
+.Table-2 > p:nth-child(2n){
+    border: 1px solid red; 
+}
+
